@@ -1,0 +1,28 @@
+name: Sync GitHub Trophies
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Every Sunday midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch updated trophies
+        run: |
+          mkdir -p assets
+          curl -s "https://trophy.ryglcloud.net/?username=sekiz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=S,AAA,AA,A,B" -o assets/trophies.svg
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/trophies.svg
+          git commit -m "chore(trophies): sync latest achievement ranks" || exit 0
+          git push origin main

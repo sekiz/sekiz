@@ -51,6 +51,16 @@ Designing at the intersection of high-craft product design, model latency, and h
 
 ---
 
+### `// 04. RECOGNITION & CODE METRICS`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sekiz/sekiz/main/assets/trophies.svg" alt="Sekiz GitHub Trophies" />
+</p>
+
+<br>
+
+---
+
 <p align="center">
   <sub style="color: #64748b;">© Sinan Asil · Built with focus on design systems, human agency &amp; generative interfaces.</sub>
 </p>

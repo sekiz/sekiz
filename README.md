@@ -91,3 +91,4 @@
 <!-- Tier progression step 5 -->
 <!-- Tier progression step 6 -->
 <!-- Tier progression step 7 -->
+<!-- Tier progression step 8 -->

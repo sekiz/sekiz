@@ -87,17 +87,3 @@
 <div align="center">
   <a href="https://x.com/sekiz"><b>@sekiz</b></a> on X &nbsp;·&nbsp; <a href="http://www.sinanasil.com"><b>sinanasil.com</b></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/sinanasil"><b>LinkedIn</b></a>
 </div>
-<!-- Tier progression step 4 -->
-<!-- Tier progression step 5 -->
-<!-- Tier progression step 6 -->
-<!-- Tier progression step 7 -->
-<!-- Tier progression step 8 -->
-<!-- Tier progression step 9 -->
-<!-- Tier progression step 10 -->
-<!-- Tier progression step 11 -->
-<!-- Tier progression step 12 -->
-<!-- Tier progression step 13 -->
-<!-- Tier progression step 14 -->
-<!-- Tier progression step 15 -->
-<!-- Tier progression step 16 -->
-<!-- Tier progression step 17 -->

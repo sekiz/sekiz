@@ -1,0 +1,6 @@
+<svg width="134" height="34" viewBox="0 0 134 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="133" height="33" rx="8" fill="#0D0F17" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <!-- LinkedIn Icon -->
+  <path d="M12 11H15V23H12V11ZM13.5 7C14.4 7 15.2 7.7 15.2 8.6C15.2 9.5 14.4 10.2 13.5 10.2C12.6 10.2 11.8 9.5 11.8 8.6C11.8 7.7 12.6 7 13.5 7ZM17 11H19.8V12.6H20C20.4 11.8 21.5 10.8 23.3 10.8C26.8 10.8 27.5 13.1 27.5 16.1V23H24.5V16.8C24.5 15.3 24.5 13.4 22.4 13.4C20.3 13.4 20 15 20 16.7V23H17V11Z" fill="#0A66C2"/>
+  <text x="36" y="21" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Text', sans-serif" font-size="12" font-weight="600" letter-spacing="-0.1">LinkedIn</text>
+</svg>

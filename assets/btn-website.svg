@@ -1,0 +1,8 @@
+<svg width="154" height="34" viewBox="0 0 154 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="153" height="33" rx="8" fill="#0D0F17" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <!-- Globe Icon -->
+  <circle cx="19" cy="17" r="7" stroke="#818CF8" stroke-width="1.5"/>
+  <ellipse cx="19" cy="17" rx="3" ry="7" stroke="#818CF8" stroke-width="1.5"/>
+  <line x1="12" y1="17" x2="26" y2="17" stroke="#818CF8" stroke-width="1.5"/>
+  <text x="34" y="21" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Text', sans-serif" font-size="12" font-weight="600" letter-spacing="-0.1">sinanasil.com</text>
+</svg>

@@ -3,10 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/sekiz"><b>X (Twitter)</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/sasil"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="http://www.sinanasil.com"><b>sinanasil.com</b></a> &nbsp;·&nbsp;
-  <a href="mailto:sinan.asil@hotmail.com"><b>Get in Touch</b></a>
+  <a href="https://x.com/sekiz" target="_blank"><img src="./assets/btn-x.svg" height="34" alt="X (@sekiz)"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sasil" target="_blank"><img src="./assets/btn-linkedin.svg" height="34" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="http://www.sinanasil.com" target="_blank"><img src="./assets/btn-website.svg" height="34" alt="sinanasil.com"/></a>
+  &nbsp;
+  <a href="mailto:sinan.asil@hotmail.com"><img src="./assets/btn-email.svg" height="34" alt="Get in Touch"/></a>
 </p>
 
 <br>

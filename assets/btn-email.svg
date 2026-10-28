@@ -1,0 +1,7 @@
+<svg width="144" height="34" viewBox="0 0 144 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="143" height="33" rx="8" fill="#0D0F17" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <!-- Mail Icon -->
+  <rect x="11" y="11" width="16" height="12" rx="2" stroke="#10B981" stroke-width="1.5"/>
+  <path d="M12 12.5L19 17.5L26 12.5" stroke="#10B981" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="35" y="21" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Text', sans-serif" font-size="12" font-weight="600" letter-spacing="-0.1">Get in Touch</text>
+</svg>

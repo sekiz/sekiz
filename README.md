@@ -89,3 +89,4 @@
 </div>
 <!-- Tier progression step 4 -->
 <!-- Tier progression step 5 -->
+<!-- Tier progression step 6 -->

@@ -51,10 +51,18 @@ Designing at the intersection of high-craft product design, model latency, and h
 
 ---
 
-### `// 04. RECOGNITION & CODE METRICS`
+### `// 04. ACTIVITY & RECOGNITION`
 
 <p align="center">
   <img src="./assets/trophies.svg" alt="Sekiz GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sekiz&theme=tokyonight&hide_border=true&background=00000000" alt="Sekiz GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="./assets/github-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
 </p>
 
 <br>

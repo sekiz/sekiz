@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sekiz/sekiz/main/assets/banner.svg" alt="Sinan — Sr. Product Designer" width="100%"/>
+  <img src="./assets/banner.svg" alt="Sinan — Sr. Product Designer" width="100%"/>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ Designing at the intersection of high-craft product design, model latency, and h
 ### `// 04. RECOGNITION & CODE METRICS`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sekiz/sekiz/main/assets/trophies.svg" alt="Sekiz GitHub Trophies" />
+  <img src="./assets/trophies.svg" alt="Sekiz GitHub Trophies" />
 </p>
 
 <br>

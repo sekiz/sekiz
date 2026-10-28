@@ -1,89 +1,56 @@
-<div align="center">
-
-# Sinan
-### Sr. Product Designer · AI-Native Products, Generative UIs & AI Agents
-
 <p align="center">
-  <em>Designing interfaces for complex intelligent systems · Bridging craft, agentic UX, and generative computing.</em>
+  <img src="https://raw.githubusercontent.com/sekiz/sekiz/main/assets/banner.svg" alt="Sinan — Sr. Product Designer" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://x.com/sekiz">
-    <img src="https://img.shields.io/badge/X-@sekiz-090a0f?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=090a0f" alt="X"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sinanasil">
-    <img src="https://img.shields.io/badge/LinkedIn-sinanasil-090a0f?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=090a0f" alt="LinkedIn"/>
-  </a>
-  <a href="http://www.sinanasil.com">
-    <img src="https://img.shields.io/badge/Website-sinanasil.com-090a0f?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=090a0f" alt="Website"/>
-  </a>
+  <a href="https://x.com/sekiz"><b>X (Twitter)</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sasil"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="http://www.sinanasil.com"><b>sinanasil.com</b></a> &nbsp;·&nbsp;
+  <a href="mailto:sinan.asil@hotmail.com"><b>Get in Touch</b></a>
 </p>
 
-</div>
+<br>
+
+### `// 01. CORE FOCUS & PHILOSOPHY`
+
+Designing at the intersection of high-craft product design, model latency, and human agency.
+
+* **Non-Deterministic UX & Agentic Steering:**  
+  Transitioning from traditional linear user flows to probabilistic interfaces. Crafting transparent steering controls, intent confirmation thresholds, and trust-building feedback loops for autonomous agents.
+
+* **Generative UI Architecture:**  
+  Moving beyond static viewports to real-time, adaptive component generation. Designing interactive canvases where the interface fluidly renders components, data tables, and actions as agent reasoning unfolds.
+
+* **Systemic Craft & Tokenized Architecture:**  
+  Bridging Figma and production TypeScript code. Building resilient design token pipelines, spatial systems, and micro-interactions designed to make complex software feel effortless.
+
+<br>
 
 ---
 
-### ✦ Core Focus & Craft
+### `// 02. CRAFT & TOOLING`
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🧠 AI-Native Product Design</h4>
-      <p>Architecting user experiences for non-deterministic interfaces, intent interpretation, model steering, confidence visualization, and trust loops.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⚡ Generative UIs & Agents</h4>
-      <p>Building real-time generative UI patterns where components, actions, and states are composed dynamically during multi-agent reasoning.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📐 Design Systems & Craft</h4>
-      <p>High-craft interactive prototypes, tokenized design systems, micro-interactions, and code-aligned component architectures.</p>
-    </td>
-  </tr>
-</table>
+```
+  Design Discipline      →  Product Strategy, Design Systems, Spatial & Interaction Craft, Rapid Prototyping
+  Modern Frontend        →  TypeScript, React, Next.js, Tailwind CSS, Three.js, Astro
+  AI-Native Interfaces   →  Agent Orchestration UX, Generative UI Protocols, Context & Prompt Architecture
+  Design Software        →  Figma, Framer, Principle, After Effects
+```
+
+<br>
 
 ---
 
-### ✦ Tools & Stack
+### `// 03. UPCOMING OPEN SOURCE & LABS`
 
-<p align="left">
-  <!-- Design -->
-  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer"/>
-  <img src="https://img.shields.io/badge/Design_Systems-18181B?style=flat-square&logo=blueprint&logoColor=white" alt="Design Systems"/>
-  &nbsp;|&nbsp;
-  <!-- Code -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro"/>
-  &nbsp;|&nbsp;
-  <!-- AI & Intelligence -->
-  <img src="https://img.shields.io/badge/AI_Agents-6366F1?style=flat-square&logo=openai&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Generative_UI-EC4899?style=flat-square&logo=sparkles&logoColor=white" alt="Generative UI"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+> ✦ **In the Pipeline:**  
+> Currently developing open-source design primitives, generative UI specifications, and agent interaction libraries.  
+> The first batch of releases and component systems will be published directly from this account.
+
+<br>
+
+---
+
+<p align="center">
+  <sub style="color: #64748b;">© Sinan Asil · Built with focus on design systems, human agency &amp; generative interfaces.</sub>
 </p>
-
----
-
-### ✦ Upcoming Open Source
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│  🚀 Preparing upcoming open-source releases:                          │
-│                                                                        │
-│  • Generative UI component specifications                              │
-│  • Agent interaction patterns & UX primitives                          │
-│  • High-fidelity design system starters                                │
-│                                                                        │
-│  Watch this space — first releases dropping soon. ⭐                  │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-  <a href="https://x.com/sekiz"><b>@sekiz</b></a> on X &nbsp;·&nbsp; <a href="http://www.sinanasil.com"><b>sinanasil.com</b></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/sinanasil"><b>LinkedIn</b></a>
-</div>

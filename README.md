@@ -42,3 +42,4 @@
   <sub>Let's connect on <a href="https://x.com/sekiz"><b>X (@sekiz)</b></a> or <a href="https://www.linkedin.com/in/sinanasil"><b>LinkedIn</b></a></sub>
 </p>
 
+<!-- AI & Product Design Profile -->
